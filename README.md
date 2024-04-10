@@ -16,15 +16,6 @@
 </pre>                                                       
                                                           
                                                           
-                                                          
-                                                          
-                                                          
-
-
-This is my baby
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Bardolomeo/30-nites-of-code)  
-  ![@Bardolomeo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Bardolomeo)
 <!--
 **Bardolomeo/Bardolomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
