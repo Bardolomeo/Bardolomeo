@@ -51,51 +51,44 @@ website -->
       <h3 align="center">Cub3d</h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.jpg" width="100%" alt="cub3d raycaster"/>
+            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.png" width="100%" alt="cub3d raycaster"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
+  <a href="https://github.com/Bardolomeo/cub3d" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+        <p><strong>C</strong> - cub3d:  A raycaster made in C language only, with a custom graphic library</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
+      <h3 align="center">GameSearcher</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+            <img src="GameSearcher.jpg" width="100%"  alt="Wave Portal"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+  <a href="https://github.com/Bardolomeo/GameSearcher" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+        <p><strong>Python, Selenium</strong> - Game Searcher: a simple web scraper for AllKeyShop made with selenium driver</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio App</h3>
+      <h3 align="center">Counterphobia</h3>
       <br />
-        <a target="_blank" href="https://rahulkarda.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-        </a>
+          <img src="counterphobia.png" width="70%" alt="Portfolio"/>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+  <!--TODO->
+  <a href="https://" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://rahulkarda.netlify.app" target="_blank">
@@ -301,7 +294,3 @@ A sample of my recent articles:
 - 💞️ I’m looking to collaborate on different web dev projects
 - 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
 -->
-  
-------
-Credit: [rahulkarda](https://github.com/rahulkarda)
-Last Edited on: 08/06/2022
