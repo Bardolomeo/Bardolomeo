@@ -1,7 +1,7 @@
 
-![Header](header.jpg?raw=true "Header")
+ <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/header.jpg" width="1000">
 
-<p align="right">
+<p align="justify">
   <a href="https://www.linkedin.com/in/bard-sapio-63a653215/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=0e76a8&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
@@ -18,9 +18,9 @@
  <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/myPicture.jpg" height="200">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
+ <p align="left">My name is Bard Sapio and I'm a C/C++ Developer.
   
-  I'm from India, living in Bhopal and currently studying Computer Science.
+  I'm from Italy, living in Florence and currently studying Computer Science.
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
@@ -29,32 +29,29 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning React, NextJS
+🌱 I’m currently learning Unity
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+👨‍💻 All of my projects are available at this GitHub page
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+👀 Ask me about GAMES
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+📫You can reach me at sapiobard@gmail.com
 
-📫You can reach me at rahulkarda2002@gmail.com
-
-⚡ Fun fact  - I like Philosophy and Astronomy
+⚡ Fun fact  - I like staring at blank walls
 
 <br>
 
 # Projects ⚙️
-<!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">Cub3d</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
+        <a target="_blank" href="">
+            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.jpg" width="100%" alt="cub3d raycaster"/>
         </a>
         <br />
         <p align="center">
