@@ -1,7 +1,7 @@
 
 ![Header](header.jpg?raw=true "Header")
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/bard-sapio-63a653215/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=0e76a8&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
@@ -15,7 +15,7 @@
 
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
-  ![](myPicture.jpg?raw=true "Header")
+ <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/myPicture.jpg" height="200">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
  <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
