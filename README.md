@@ -135,6 +135,8 @@ website -->
           <br>
   <a href="https://github.com/Bardolomeo/CinnamonBlog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://cinnamonblog-1.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=site&color=f&style=plastic&logo=web&logo-color=white"/>
   </a>
       </p>
         <p><strong>Ejs, Node</strong> - Cinnamonblog:  Blog site made as practice project with node and ejs</p>
