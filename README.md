@@ -150,6 +150,7 @@ website -->
    <br>
   <a href="https://github.com/Bardolomeo/D-D_quick_reference" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://d-d-quick-reference.onrender.com/rule" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=site&color=f&style=plastic&logo=web&logo-color=white"/>
   </a> 
       </p>
