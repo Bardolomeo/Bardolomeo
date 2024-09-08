@@ -127,7 +127,6 @@ website -->
     <td width="50%" valign="top">
       <h3 align="center">Cinnamonblog</h3>
         <br />
-        <a target="_blank" href="">
             <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cinnamonblog_logo.png" width="100%" alt="sanrio character cinnamonroll on an airplane"/>
         </a>
         <br />
@@ -144,7 +143,6 @@ website -->
     <td width="50%" valign="top">
       <h3 align="center">D&D quick reference guide</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="ddqr.png" width="100%"  alt="Picture of the site"/>
         </a>
         <br />
