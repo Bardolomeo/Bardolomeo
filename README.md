@@ -122,6 +122,40 @@ website -->
         <p><strong>C</strong> - Capstone Project for 42School, It's a light version of bash</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cinnamonblog</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cinnamonblog_logo.png" width="100%" alt="sanrio character cinnamonroll on an airplane"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Bardolomeo/CinnamonBlog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Ejs, Node</strong> - Cinnamonblog:  Blog site made as practice project with node and ejs</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">D&D quick reference guide</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="ddqr.png" width="100%"  alt="Picture of the site"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/Bardolomeo/D-D_quick_reference" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=site&color=f&style=plastic&logo=web&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>Ejs, Node, Axios</strong> - D&D Quick Reference: study project made to test out APIs, credits to D&D 5E API</p>
+    </td>
+  </tr>
 </table>
 
   
