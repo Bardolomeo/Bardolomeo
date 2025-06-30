@@ -40,8 +40,6 @@ website -->
 
 📫You can reach me at sapiobard@gmail.com
 
-⚡ Fun fact  - I like staring at blank walls
-
 <br>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
