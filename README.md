@@ -84,9 +84,7 @@ website -->
       <td width="50%" valign="top" align="center" >
         <h3 align="center">Webserver</h3>
           <br />
-            <a target="_blank" href="https://github.com/NicoloRomito/webserv" align="center">
               <img src="https://github.com/user-attachments/assets/d408138f-5a16-4234-8564-ecc4e03ed579" alt="cub3d raycaster" height="250vh"/>
-            </a>
           <br />
         <p align="center">
           <br>
@@ -101,9 +99,7 @@ website -->
     <td width="50%" valign="top" align="center">
       <h3 align="center">Cub3d</h3>
       <br />
-      <a target="_blank" href="">
           <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.png" height="250vh" alt="cub3d raycaster"/>
-      </a>
       <br />
       <p align="center">
         <br />
@@ -116,9 +112,7 @@ website -->
     <td width="50%" valign="top" align="center">
       <h3 align="center">GameSearcher</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="GameSearcher.jpg" height="250vh"  alt="Screenshot of the software"/>
-        </a>
         <br />
         <p align="center">
    <br>
@@ -190,16 +184,33 @@ website -->
         <p><strong>Ejs, Node, Axios</strong> - D&D Quick Reference: study project made to test out APIs, credits to D&D 5E API</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Three.js Playground [WIP]</h3>
+        <br />
+            <img src="https://github.com/user-attachments/assets/990d1866-e2e9-4302-8ccf-768389088de0" height="250vh" alt="three televisions ina 3d render"/>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Bardolomeo/actual-three-js-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Three.js, Next.js, Nodejs</strong> - a project to test out three.js potential</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Ascom Challenge</h3>
+        <br />
+            <img src="https://github.com/user-attachments/assets/f43bf71c-ca0d-45da-a020-ffe354a7c031" height="250vh" alt="Picture of a sortable table"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/Bardolomeo/AscomChallenge" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+      </p>
+        <p><strong>Ejs, Node, Axios</strong> - Exercize made for Ascom to test out their api</p>
+    </td>
+  </tr>
 </table>
-
-  
-
-
-<!-- default README.md -->
-<!--
-- 👋 Hi, I’m Rahul Karda
-- 👀 I’m interested in Full Stack Web Development and other skills
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on different web dev projects
-- 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
--->
