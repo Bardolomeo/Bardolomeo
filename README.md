@@ -64,28 +64,60 @@ website -->
 
 # Projects ⚙️
 <table bordercolor="#66b2b2">
-  
+
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Cub3d</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.png" width="100%" alt="cub3d raycaster"/>
-        </a>
-        <br />
+      <td width="50%" valign="top" align="center" >
+        <h3 align="center">Inception</h3>
+          <br />
+            <a target="_blank" href="https://github.com/Bardolomeo/inception" align="center">
+              <img src="https://github.com/user-attachments/assets/7d767dd9-ef9c-4683-bd38-b16c517fc63d" alt="a scene form the movie Inception" height="250vh"/>
+            </a>
+          <br />
         <p align="center">
           <br>
-  <a href="https://github.com/Bardolomeo/cub3d" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
+          <a href="https://github.com/Bardolomeo/inception" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>Docker, MariaDB, Wordpress, Nginx</strong> - Set up a functioning webpage with Docker and Docker Networks</p>
+      </td>
+      <td width="50%" valign="top" align="center" >
+        <h3 align="center">Webserver</h3>
+          <br />
+            <a target="_blank" href="https://github.com/NicoloRomito/webserv" align="center">
+              <img src="https://github.com/user-attachments/assets/d408138f-5a16-4234-8564-ecc4e03ed579" alt="cub3d raycaster" height="250vh"/>
+            </a>
+          <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/NicoloRomito/webserv" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>C++</strong> - Webserv:  Webserver made from scratch in c++ in collabboration with other 42 students</p>
+      </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Cub3d</h3>
+      <br />
+      <a target="_blank" href="">
+          <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cub3d.png" height="250vh" alt="cub3d raycaster"/>
+      </a>
+      <br />
+      <p align="center">
+        <br />
+        <a href="https://github.com/Bardolomeo/cub3d" target="_blank">
+           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>C</strong> - cub3d:  A raycaster made in C language only, with a custom graphic library</p>
+      <p><strong>C</strong> - cub3d:  A raycaster made in C language only, with a custom graphic library</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">GameSearcher</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="GameSearcher.jpg" width="100%"  alt="Wave Portal"/>
+            <img src="GameSearcher.jpg" height="250vh"  alt="Screenshot of the software"/>
         </a>
         <br />
         <p align="center">
@@ -99,10 +131,10 @@ website -->
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Counterphobia</h3>
       <br />
-          <img src="counterphobia.png" width="70%" alt="Portfolio"/>
+          <img src="counterphobia.png" height="250vh" alt="Portfolio"/>
       <br />
         <p align="center">
           <br>
@@ -111,7 +143,7 @@ website -->
   </a>
       </p>
         <p><strong>GdScript (Python), Godot</strong> - Turn-based rpg that my team made for Roguelike Jam 7</p>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Minishell</h3>
         <br />
         <p align="center">
@@ -125,10 +157,10 @@ website -->
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">Cinnamonblog</h3>
         <br />
-            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cinnamonblog_logo.png" width="100%" alt="sanrio character cinnamonroll on an airplane"/>
+            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cinnamonblog_logo.png" height="250vh" alt="sanrio character cinnamonroll on an airplane"/>
         </a>
         <br />
         <p align="center">
@@ -141,10 +173,10 @@ website -->
       </p>
         <p><strong>Ejs, Node</strong> - Cinnamonblog:  Blog site made as practice project with node and ejs</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3 align="center">D&D quick reference guide</h3>
         <br />
-            <img src="ddqr.png" width="100%"  alt="Picture of the site"/>
+            <img src="ddqr.png" height="250vh" alt="Picture of the site"/>
         </a>
         <br />
         <p align="center">
