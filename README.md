@@ -66,6 +66,7 @@ website -->
 <table bordercolor="#66b2b2">
 
   <tr>
+    <!-->INCEPTION<-->
       <td width="50%" valign="top" align="center" >
         <h3 align="center">Inception</h3>
           <br />
@@ -81,6 +82,7 @@ website -->
         </p>
         <p><strong>Docker, MariaDB, Wordpress, Nginx</strong> - Set up a functioning webpage with Docker and Docker Networks</p>
       </td>
+    <!-->WEBSERV<-->
       <td width="50%" valign="top" align="center" >
         <h3 align="center">Webserver</h3>
           <br />
@@ -92,10 +94,11 @@ website -->
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
-        <p><strong>C++</strong> - Webserv:  Webserver made from scratch in c++ in collabboration with other 42 students</p>
+        <p><strong>C++</strong> - Webserver made from scratch in c++ in collabboration with other 42 students</p>
       </td>
   </tr>
   <tr>
+    <!-->CUB3D<-->
     <td width="50%" valign="top" align="center">
       <h3 align="center">Cub3d</h3>
       <br />
@@ -109,6 +112,7 @@ website -->
       </p>
       <p><strong>C</strong> - cub3d:  A raycaster made in C language only, with a custom graphic library</p>
     </td>
+    <!--> GAME SEARCHER<-->
     <td width="50%" valign="top" align="center">
       <h3 align="center">GameSearcher</h3>
         <br />
@@ -123,7 +127,33 @@ website -->
         <p><strong>Python, Selenium</strong> - Game Searcher: a simple web scraper for AllKeyShop made with selenium driver</p>
     </td>
   </tr>
-  
+  <tr>
+    <!--> C++ MODULES<-->
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">42 C++ Modules</h3>
+        <br />
+        <p align="center">
+          <br>
+  <a href=["https://github.com/Bardolomeo/Minishell](https://github.com/Bardolomeo/cpp_42)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>C++</strong> - Some propedeutic C++ modules that I did</p>
+    <!--> MINISHELL<-->
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">Minishell</h3>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Bardolomeo/Minishell" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>C</strong> - Capstone Project for 42School, It's a light version of bash</p>
+    </td>
+  </tr>
+<!--> COUNTERPHOBIA <-->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3 align="center">Counterphobia</h3>
@@ -137,36 +167,8 @@ website -->
   </a>
       </p>
         <p><strong>GdScript (Python), Godot</strong> - Turn-based rpg that my team made for Roguelike Jam 7</p>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Minishell</h3>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/Bardolomeo/Minishell" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>C</strong> - Capstone Project for 42School, It's a light version of bash</p>
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Cinnamonblog</h3>
-        <br />
-            <img src="https://github.com/Bardolomeo/Bardolomeo/blob/main/cinnamonblog_logo.png" height="250vh" alt="sanrio character cinnamonroll on an airplane"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/Bardolomeo/CinnamonBlog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  <a href="https://cinnamonblog-1.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=site&color=f&style=plastic&logo=web&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Ejs, Node</strong> - Cinnamonblog:  Blog site made as practice project with node and ejs</p>
-    </td>
+   <!-->D&D QUICK REFERENCE<-->
     <td width="50%" valign="top" align="center">
       <h3 align="center">D&D quick reference guide</h3>
         <br />
