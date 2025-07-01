@@ -210,7 +210,7 @@ website -->
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>Ejs, Node, Axios</strong> - Exercize made for Ascom to test out their api</p>
+        <p><strong>Vite, Axios</strong> - Exercize made for Ascom to test out their api</p>
     </td>
   </tr>
 </table>
